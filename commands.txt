@@ -1,3 +1,7 @@
 git init ==> initilize git repository 
+ 
+git status ==> list of untracked files
 
-git add ==> changes from localworkspace to staging area
+git add -A ==> adding all changes from localworkspace to staging area
+
+git commit -m "commit message" ==> commit staging area to localrepository
