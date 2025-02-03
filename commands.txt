@@ -5,3 +5,7 @@ git status ==> list of untracked files
 git add -A ==> adding all changes from localworkspace to staging area
 
 git commit -m "commit message" ==> commit staging area to localrepository
+
+git config --global user.name "your name"
+
+git config --global user.email "your email"
