@@ -9,3 +9,11 @@ git commit -m "commit message" ==> commit staging area to localrepository
 git config --global user.name "your name"
 
 git config --global user.email "your email"
+
+git remote add remote_name remote_path(for adding remote)
+
+git push remote_name branch_name (master/main)
+
+git branch
+
+git checkout
